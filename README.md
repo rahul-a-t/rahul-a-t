@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanray&label=Profile%20views&color=0e75b6&style=flat" alt="nandanray" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandanray" alt="nandanray" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-a-t" alt="rahul-a-t" /></a> </p>
 
 - 🔭 I’m currently working at [HaystackAnalytics](https://haystackanalytics.in/)
 
@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **automation in general**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nandanray?tab=repositories](https://github.com/nandanray?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rahul-a-t?tab=repositories](https://github.com/rahul-a-t?tab=repositories)
 
-- 📫 How to reach me **nandan@haystackanalytics.in**
+- 📫 How to reach me **rahulatiwari02@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nandan-ray/](https://www.linkedin.com/in/nandan-ray/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rahul-a-t/](https://www.linkedin.com/in/rahul-a-t/)
 
 - ⚡ Fun fact **The Mona Lisa has no eyebrows.**
 
