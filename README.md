@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Ashok Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Rahul Tiwari</h1>
 <h3 align="center">A passionate automation and process critical technology enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanray&label=Profile%20views&color=0e75b6&style=flat" alt="nandanray" /> </p>
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at [HaystackAnalytics](https://haystackanalytics.in/)
 
-- 🌱 I’m currently learning **Terraform, AWS and Git.**
+- 🌱 I’m currently learning **Rust, AWS.**
 
-- 👯 I’m looking to collaborate on **Cloud Infrastructure Automation**
+- 👯 I’m looking to collaborate on **Bioinformatics Projects**
 
 - 🤝 I’m looking for help with **automation in general**
 
